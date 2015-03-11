@@ -1,3 +1,4 @@
 Begin
-
+ SELECT 123 AS ID
+ SELECT 245 AS ID 
 End;
