@@ -1,3 +1,3 @@
 Begin
-
+ SELECT 123 AS ID
 End;
